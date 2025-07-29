@@ -961,7 +961,7 @@ namespace thermal {
 		},
 		{
 			TemperatureType::SKIN,
-			{ "xo-therm" },
+			{ "quiet_therm" },
 			"skin",
 			{
 			[LIGHT] = 36500,
